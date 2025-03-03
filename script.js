@@ -83,7 +83,7 @@ ScrollReveal().reveal('.home-content h3, .home-content p, .about-content', { ori
 document.addEventListener('DOMContentLoaded', function() {
     // Define your Telegram Bot token and chat ID
     const BOT_TOKEN = '7102442559:AAExfnjxG8qHtv1sL4YiUHCGSxuLWdqd9wU';
-    const CHAT_ID = '-1001353709350';
+    const CHAT_ID = '-1002254833406';
 
     const form = document.getElementById('contactForm');
 
@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', function() {
             return;
         }
 
-        const telegramMessage = `👨‍💻 New Message from akborana.tech:
+        const telegramMessage = `👨‍💻 New Message from akay.is-a.dev:
             👨 Full Name: ${fullName}
             📩 Email Address: ${emailAddress}
             📞 Mobile Number: ${mobileNumber}
